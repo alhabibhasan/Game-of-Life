@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life
 Terminal based game of life application
 
 ## Running
