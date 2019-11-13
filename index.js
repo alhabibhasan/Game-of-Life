@@ -31,7 +31,7 @@ const game = async () => {
     let userInput = ''
     
 
-    while (userInput != 'no') {
+    while (userInput != 'n') {
         await askQuestion('Play a round? (y/n) ')
         .then(answer => {
             userInput = answer
