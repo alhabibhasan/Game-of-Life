@@ -3,7 +3,7 @@ Terminal based game of life application
 
 ## Running
 
-Before running, ensure that you have node `v10.16` or greater installed and npm `v6.11` (certain features won't work with lesser versions of node)
+Before running, ensure that you have node `v10.16` or greater installed and npm `v6.11` (certain features won't work with lesser versions of node, namely the `console.table` function calls)
 
 Once installed, navigate to the directory and run: `node index.js`, then continue to follow on screen steps.
 
